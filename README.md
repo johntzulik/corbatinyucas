@@ -5,7 +5,14 @@ then, if you need to collet all the images and saved into a PDF run the indexpdf
 this script will do it easy for you.
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+# Base Image
+![base-image](https://raw.githubusercontent.com/johntzulik/corbatinyucas/master/assets/las-Yucas-corbatin-9x13.jpg)
+
+# QR Code
+![QR-code](https://raw.githubusercontent.com/johntzulik/corbatinyucas/master/assets/000-X.png)
+
+# Full Image
+![full-images](https://raw.githubusercontent.com/johntzulik/corbatinyucas/master/assets/000-X.jpg)
 
 Please use node v16.2.0
 #

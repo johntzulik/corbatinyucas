@@ -1,0 +1,7 @@
+node_modules
+output/*.*
+PDF/*.*
+PSD
+json/casas.json
+qrimages/*.*
+package-lock.json

@@ -1,0 +1,30 @@
+# corbatinyucas
+
+Corbatin Yucas generate a QR code and then put over an image,
+then, if you need to collet all the images and saved into a PDF run the indexpdf.js
+this script will do it easy for you.
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+Please use node v16.2.0
+#
+
+To install
+```
+npm install
+```
+
+#
+To generate the images
+```
+node index.js
+```
+to generate the PDF files ready to print in tabloid format
+```
+node indexpdf.js
+```
+## Authors
+
+- [@johntzulik](https://github.com/johntzulik)
+

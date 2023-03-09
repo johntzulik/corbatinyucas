@@ -5,3 +5,4 @@ PSD
 json/casas.json
 qrimages/*.*
 package-lock.json
+.DS_Store

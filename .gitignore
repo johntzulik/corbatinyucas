@@ -1,8 +1,7 @@
 node_modules
-output/*.*
-PDF/*.*
+output
 PSD
-json/casas.json
-qrimages/*.*
+PDF
+qr
 package-lock.json
 .DS_Store

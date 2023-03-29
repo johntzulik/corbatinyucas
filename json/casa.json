@@ -1,7 +1,50 @@
 [
     {
-      "id": 1,
-      "casa": "000-x",
-      "link": "https://your-site-url.com"
+      "casa": "101-A",
+      "link": "https://your-site-url.com/api/casa/101/letra/A"
+    },
+    {
+      "casa": "101-B",
+      "link": "https://your-site-url.com/api/casa/101/letra/B"
+    },
+    {
+      "casa": "101-C",
+      "link": "https://your-site-url.com/api/casa/101/letra/C"
+    },
+    {
+      "casa": "101-D",
+      "link": "https://your-site-url.com/api/casa/101/letra/D"
+    },
+    {
+      "casa": "102-A",
+      "link": "https://your-site-url.com/api/casa/102/letra/A"
+    },
+    {
+      "casa": "102-B",
+      "link": "https://your-site-url.com/api/casa/102/letra/B"
+    },
+    {
+      "casa": "102-C",
+      "link": "https://your-site-url.com/api/casa/102/letra/C"
+    },
+    {
+      "casa": "102-D",
+      "link": "https://your-site-url.com/api/casa/102/letra/D"
+    },
+    {
+      "casa": "103-A",
+      "link": "https://your-site-url.com/api/casa/103/letra/A"
+    },
+    {
+      "casa": "103-B",
+      "link": "https://your-site-url.com/api/casa/103/letra/B"
+    },
+    {
+      "casa": "103-C",
+      "link": "https://your-site-url.com/api/casa/103/letra/C"
+    },
+    {
+      "casa": "103-D",
+      "link": "https://your-site-url.com/api/casa/103/letra/D"
     }
 ]
